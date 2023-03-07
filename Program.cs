@@ -60,3 +60,15 @@
 // Console.Write($"Большее число - {max}");
 
 
+// Console.WriteLine("Введите число: ");
+// int chet = Convert.ToInt32(Console.ReadLine()!);
+
+// if(chet%2==0)
+// {
+//   Console.WriteLine("Число четное");          --- ЗАДАЧА 3
+// }
+
+// else
+// {
+//   Console.WriteLine("Число нечётное");
+// }
