@@ -1,8 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
+
+
+
+// --- ЗАДАЧА 1
 // Console.WriteLine("Введите два числа: ");
 // int a = int.Parse(Console.ReadLine()!);
 // int b = int.Parse(Console.ReadLine()!);
-
 // if (a>b) 
 // { 
 //   Console.Write($"Большее число - {a}");   --- ЗАДАЧА 1
@@ -11,6 +14,20 @@
 // {
 //   Console.Write($"Большее число - {b}");
 // }
+
+
+
+
+
+
+
+
+
+
+
+
+
+// --- ЗАДАЧА 2
 
 // Console.WriteLine("Введите три числа: ");
 
@@ -59,6 +76,8 @@
 // }
 // Console.Write($"Большее число - {max}");
 
+//-- ЗАДАЧА 3
+
 
 // Console.WriteLine("Введите число: ");
 // int chet = Convert.ToInt32(Console.ReadLine()!);
@@ -73,12 +92,15 @@
 //   Console.WriteLine("Число нечётное");
 // }
 
-        // Console.Write("Ввежите число: ");
-        // int n = int.Parse(Console.ReadLine()!);
-        // for(int i = 1; i <=n; i++)
-        // {
-        //     if (i % 2 == 0)                          --- ЗАДАЧА 4
-        //     {
-        //         Console.Write(i + " ");
-        //     }
-        // }
+//  --- ЗАДАЧА 4
+// Console.Write("Введите число: ");
+// int n = int.Parse(Console.ReadLine()!);
+// for(int i = 1; i <=n; i++)
+// {
+  //     if (i % 2 == 0)                          --- ЗАДАЧА  4
+  //     {
+  //      Console.Write(i + " ");
+  //    }
+  // }
+
+  
